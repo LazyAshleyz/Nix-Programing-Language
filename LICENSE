@@ -1,0 +1,107 @@
+NIX OPEN SOURCE ATTRIBUTION LICENSE
+
+Version 1.0
+
+Copyright (c) 2026 Ashley
+
+Official Nix Project Repository:
+https://github.com/LazyAshleyz/Nix-Programing-Language
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the Nix programming language source code (the "Software"), to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, subject to the following conditions:
+
+1. USE OF NIX
+
+The Software may be used for any purpose, including commercial purposes.
+
+Programs, applications, games, libraries, or other software created using
+the Nix programming language may be distributed, published, and sold without
+requiring those programs themselves to be open source.
+
+This license applies to the Nix programming language and its source code,
+not automatically to software merely created using Nix.
+
+2. MODIFICATION AND REDISTRIBUTION
+
+You may modify the Software and distribute modified versions of it.
+
+Any modified or derivative version of the Nix programming language that is
+distributed to another person must:
+
+a. Remain open source;
+
+b. Make the complete corresponding source code of the modified version
+   available to recipients under this license or a license providing
+   equivalent freedoms and requirements;
+
+c. Preserve this license and the original copyright notices; and
+
+d. Clearly identify that the distributed version is modified from Nix.
+
+3. ATTRIBUTION
+
+Any distributed copy or derivative version of Nix must retain appropriate
+credit to the original Nix project and its copyright holder.
+
+The original Nix project is maintained at:
+
+https://github.com/LazyAshleyz/Nix-Programing-Language
+
+If a modified version contains a substantial portion of source code derived
+from Nix, the distributor must clearly state that substantial portions of
+the source code were derived from or taken from Nix.
+
+The attribution must be reasonably visible and must not be removed or
+intentionally obscured.
+
+4. SOURCE CODE AVAILABILITY
+
+If you distribute a modified version of Nix, you must provide recipients
+with access to the complete source code corresponding to the distributed
+version, including your modifications.
+
+This requirement does not apply to software that merely uses Nix, is written
+in Nix, or is compiled using Nix, provided that the software is not itself a
+modified or derivative version of the Nix programming language.
+
+5. COMMERCIAL USE
+
+Commercial use of Nix is expressly permitted.
+
+You may sell:
+
+- Software created using Nix;
+- Services using Nix;
+- Modified versions of Nix, provided that all requirements of this license
+  are satisfied; and
+- Distributions of Nix that comply with this license.
+
+You may not impose additional restrictions that prevent recipients from
+exercising the rights granted by this license with respect to Nix itself.
+
+6. NO TRADEMARK RIGHTS
+
+This license does not grant permission to use any trademarks, logos, or
+branding associated with Nix except as reasonably necessary to identify the
+Software or state that a work is based on Nix.
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT,
+OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. ACCEPTANCE
+
+By exercising any of the rights granted by this license, you agree to be
+bound by its terms and conditions.
+
+If any provision of this license is found to be unenforceable, the remaining
+provisions shall remain in effect to the fullest extent permitted by law.
